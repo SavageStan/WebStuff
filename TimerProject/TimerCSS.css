@@ -1,0 +1,17 @@
+#globalTimer {
+    text-align: center;
+}
+
+#workTimer {
+    text-align: center;
+    color: red;
+}
+
+#restTimer {
+    text-align: center;
+    color: green;
+}
+
+#buttonDiv {
+    text-align: center;
+}
